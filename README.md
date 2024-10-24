@@ -5,8 +5,8 @@ This FastAPI application interacts with Replicate's API to fine-tune and generat
 
 ## UI Screenshots
 
-![Screenshot 1](Screenshot 2024-10-24 142646.png)
-![Screenshot 2](Screenshot 2024-10-24 142726.png)
+![App Screenshot 1](Screenshot 2024-10-24 142646.png)
+![App Screenshot 2](Screenshot 2024-10-24 142726.png)
 
 
 ## Setup:
