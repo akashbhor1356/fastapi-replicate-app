@@ -3,6 +3,12 @@
 ## Description:
 This FastAPI application interacts with Replicate's API to fine-tune and generate images based on a prompt. The application provides a clean and structured API with endpoints for generating images.
 
+## UI Screenshots
+
+![Screenshot 1](Screenshot 2024-10-24 142646.png)
+![Screenshot 2](Screenshot 2024-10-24 142726.png)
+
+
 ## Setup:
 
 1. Clone the repository.
