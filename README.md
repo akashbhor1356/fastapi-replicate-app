@@ -7,3 +7,6 @@ This is a FastAPI application that uses the Replicate API to generate images bas
 1. Create a virtual environment:
    ```bash
    python -m venv env
+2. to run this project:
+   '''bash
+   uvicorn app.main:app --reload
